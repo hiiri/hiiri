@@ -24,7 +24,7 @@ Check out my projects: [``Fractol``](https://github.com/hiiri/fractol) [``PHP-Pi
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiiri&show_icons=true" alt="hiiri" />
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksicohen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aleksicohen/" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksicohen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="https://soundcloud.com/sroku" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/aleksicohen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aleksicohen/" height="30" width="30" /></a>
+<a href="https://soundcloud.com/sroku" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="https://soundcloud.com/sroku" height="30" width="30" /></a>
 </p>
 

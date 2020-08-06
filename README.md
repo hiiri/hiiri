@@ -1,25 +1,19 @@
-## [Aleksi Cohen](https://www.linkedin.com/in/aleksicohen/)
-### :finland: :uk: :ru: :fr:
-## Student at [Hive Helsinki](https://hive.fi) 
-#### I use
+## [Aleksi Cohen](https://www.linkedin.com/in/aleksicohen/)  :finland: :uk: :ru: :fr:
+#### Student at [Hive Helsinki](https://hive.fi) 
+#### I know
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-Check out my projects: [``Fractol``](https://github.com/hiiri/fractol) [``PHP-Piscine``](https://github.com/hiiri/PHP-Piscine)
-
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-
-#### I have some experience with
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 
-#### I am learning
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+
+Check out my projects: [``Fractol``](https://github.com/hiiri/fractol) [``PHP-Piscine``](https://github.com/hiiri/PHP-Piscine)
 
 #### I am interested in
 - Cyber Security

@@ -1,7 +1,7 @@
 ## [Aleksi Cohen](https://www.linkedin.com/in/aleksicohen/)  :finland: :uk: :ru: :fr:
 ### Student at [Hive Helsinki](https://hive.fi) 
 
-#### I've used this stuff
+#### I know this stuff
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 

@@ -14,6 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 
 Check out my projects: [``Fractol``](https://github.com/hiiri/fractol) [``PHP-Piscine``](https://github.com/hiiri/PHP-Piscine)
+
 Currently doing: [``Wolf3D``](https://github.com/salahadawi/Wolf3d/tree/master)
 
 #### I am interested in

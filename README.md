@@ -15,7 +15,7 @@
 
 Check out my projects: [``Fractol``](https://github.com/hiiri/fractol) [``PHP-Piscine``](https://github.com/hiiri/PHP-Piscine)
 
-Currently doing: [``Wolf3D``](https://github.com/salahadawi/Wolf3d/tree/master)
+Currently doing: [``Wolf3D``](https://github.com/salahadawi/Wolf3d/tree/master) and learning Node.js
 
 #### I am interested in
 - Cyber Security

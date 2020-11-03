@@ -13,9 +13,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 
-Check out my projects: [``Fractol``](https://github.com/hiiri/fractol) [``PHP-Piscine``](https://github.com/hiiri/PHP-Piscine)
+Check out my projects: [``Wolf3D``](https://github.com/salahadawi/Wolf3d/tree/master) [``Fractol``](https://github.com/hiiri/fractol) [``PHP-Piscine``](https://github.com/hiiri/PHP-Piscine)
 
-Currently doing: [``Wolf3D``](https://github.com/salahadawi/Wolf3d/tree/master) and learning Node.js
+Currently doing: [```Full stack open MOOC```](https://fullstackopen.com/en)
 
 #### I am interested in
 - Cyber Security

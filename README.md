@@ -2,20 +2,22 @@
 ### Student at [Hive Helsinki](https://hive.fi) 
 
 #### I know this stuff
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=plastic&logo=c)
+![Python](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python)
 
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=plastic&logo=php)
+![MySQL](https://img.shields.io/badge/-SQL-000000?style=plastic&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML-000000?style=plastic&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=plastic&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=plastic&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-222222?style=plastic&logo=git&logoColor=F05032)
 
 Check out my projects: [``Wolf3D``](https://github.com/salahadawi/Wolf3d/tree/master) [``Fractol``](https://github.com/hiiri/fractol) [``PHP-Piscine``](https://github.com/hiiri/PHP-Piscine)
 
-Currently doing: [```Full stack open MOOC```](https://fullstackopen.com/en)
+Currently learning: [```Full stack open MOOC```](https://fullstackopen.com/en)
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react) ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 
 #### I am interested in
 - Cyber Security
